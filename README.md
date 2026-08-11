@@ -1,12 +1,12 @@
 # Sales Report Automation
 
-A Python automation project that reads sales data from a CSV file and generates a formatted Excel sales report with summary tables, key performance metrics, and charts.
+A Python automation project that reads sales data from a CSV file and automatically generates a formatted Excel sales report with summary tables, key performance metrics, and charts.
 
 ## Features
 
 - Reads sales data from a CSV file
 - Calculates sales amounts automatically
-- Generates an Excel sales report
+- Generates a formatted Excel sales report
 - Creates product performance summaries
 - Creates salesperson performance summaries
 - Creates regional performance summaries
@@ -20,6 +20,7 @@ A Python automation project that reads sales data from a CSV file and generates 
 - CSV
 - openpyxl
 - Excel
+- Git & GitHub
 
 ## Project Structure
 
