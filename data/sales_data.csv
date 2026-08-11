@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Unit Price,Salesperson,Region
+2026-01-05,Laptop,Electronics,2,75000,Aisha,North
+2026-01-07,Mouse,Accessories,10,800,Rahul,South
+2026-01-10,Keyboard,Accessories,5,1500,Aisha,North
+2026-01-12,Monitor,Electronics,3,18000,Imran,West
+2026-01-15,Laptop,Electronics,1,75000,Rahul,South
+2026-01-18,Headphones,Accessories,8,2500,Imran,West
+2026-01-20,Printer,Office,2,12000,Aisha,North
+2026-01-23,Mouse,Accessories,15,800,Imran,West
+2026-01-25,Keyboard,Accessories,7,1500,Rahul,South
+2026-01-28,Monitor,Electronics,2,18000,Aisha,North
