@@ -35,3 +35,13 @@ Sales-Report-Automation/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+## How to Run
+
+1. Clone the repository
+2. Install the required package:
+   `pip install -r requirements.txt`
+3. Run the program:
+   `python main.py`
+4. Select `1` to generate the sales report.
